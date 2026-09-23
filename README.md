@@ -56,7 +56,7 @@ The model achieved an R² score of 0.9345 on the test set.
 
 The project includes the following model output image:
 
-![Model Output](output.png)
+![Model Output](Screenshot 2026-09-23 174417.png)
 
 ## Technologies
 
@@ -67,16 +67,7 @@ The project includes the following model output image:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
-## Project Structure
-
-```text
-├── data.xlsx
-├── output.png
-├── main.ipynb
-└── README.md
-```
-
+  
 ## Disclaimer
 
 This project is intended for educational and machine learning purposes. It should not be used as a substitute for professional medical judgment or real-world clinical decision-making.
