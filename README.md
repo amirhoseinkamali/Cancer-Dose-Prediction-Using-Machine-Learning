@@ -56,7 +56,7 @@ The model achieved an R² score of 0.9345 on the test set.
 
 The project includes the following model output image:
 
-![Model Output](Screenshot 2026-09-23 174417.png)
+![Model Output](pic.png)
 
 ## Technologies
 
